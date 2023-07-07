@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Projet React JS lié avec [https://github.com/Plastaaa/tp_express_js_backend](dfjn)
+Projet React JS lié avec ce [Backend]([dfjn](https://github.com/Plastaaa/tp_express_js_backend))
 
 ## Available Scripts
 
