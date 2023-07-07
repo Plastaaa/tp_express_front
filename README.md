@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projet React JS lié avec [https://github.com/Plastaaa/tp_express_js_backend](dfjn)
 
 ## Available Scripts
 
