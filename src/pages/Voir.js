@@ -14,7 +14,7 @@ function Voir() {
   useEffect(() => {
     axios.get(urlToCall)
     .then(res => {
-      // Check if the response data is an array, if not, convert it into an array
+      // Conversion en tableau si s'en est pas un.
       const data = Array.isArray(res.data) ? res.data : [res.data];
       setData(data);
       console.log(data)

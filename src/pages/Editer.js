@@ -38,13 +38,8 @@ function Editer() {
     var url = "http://localhost:8081/auteur/"+id+"?nom=" + formData.nom + "&prenom=" + formData.prenom + "&age=" + formData.age + "&genreLitt=" + formData.genreLitt
 
     axios.put(url, formData)
-      .then(res => {
-        console.log(res.data);
-        // handle successful responses here
-      })
       .catch(error => {
         console.error("Erreur lors de la mise à jour des datas: ", error);
-        // handle errors here
       });
   }
 
